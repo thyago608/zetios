@@ -18,7 +18,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
     $ git clone https://github.com/thyago608/zetios
 
     # Entrar no diretório da aplicação
-    $ cd letmeask
+    $ cd zetios
 
     # Baixar as depedências
     $ npm install

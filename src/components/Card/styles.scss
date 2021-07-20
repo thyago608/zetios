@@ -1,0 +1,12 @@
+.card-component{
+    max-width: 400px;
+    background: var(--white);
+    border-radius: 0.5rem;
+    padding: 1rem 1.5rem;
+
+    h1{
+        color: var(--blue);
+        font-weight: 400;
+        font-size: 1.7rem;
+    }
+}

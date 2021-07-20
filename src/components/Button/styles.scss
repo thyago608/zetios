@@ -1,0 +1,17 @@
+.button-component{
+    background: var(--yellow);
+    border: 0;
+
+    width: 15rem;
+    height: 2.7rem;
+    border-radius: 0.4rem;
+
+    font-size: 1rem;
+    color: var(--blue);
+    transition: filter 0.2s ease;
+    cursor: pointer;
+    
+    &:hover{
+        filter: brightness(0.8);
+    }
+}

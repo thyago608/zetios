@@ -1,0 +1,16 @@
+.component-header{
+    height: 100px;
+
+    display: flex;
+    align-items: center;
+    padding: 1rem 2rem;
+    
+    svg{
+        font-size: 2rem;
+        color: var(--white);
+    }
+
+    > img{
+        margin: 0 auto;
+    }
+}

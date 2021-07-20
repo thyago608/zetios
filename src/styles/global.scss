@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --blue: #1277BF;
+    --yellow:#FFD800;
+    --white:#FFFF;
+}
+
+
+body{
+    font-family: sans-serif;
+    background: var(--blue);
+    color:var(--white);
+}
+
+#page{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+html{
+    @media(max-width:1080px){
+        font-size: 93.75%;
+    }
+    @media(max-width:800px){
+        font-size: 87.5%;
+    }
+}

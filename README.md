@@ -1,5 +1,6 @@
-
-<img src="src/assets/images/logo.png" alt="zetios"/ align="center">
+<p align="center">
+    <img src="src/assets/images/logo.png" alt="zetios"/ >
+</p>
 
 ## Tecnologias utilizadas
 
